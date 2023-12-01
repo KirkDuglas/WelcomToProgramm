@@ -2,16 +2,16 @@
 
 
 int size = 10;
-int[] array = new int[size]; 
+int[] mas = new int[size]; 
 int element = 0;
-for (int i = 0; i < array.Length; i++)
+for (int i = 0; i < mas.Length; i++)
  {
-array[i] = new Random().Next(1, 101);
+mas[i] = new Random().Next(1, 101);
  }
- Console.WriteLine($"Массив: [ {string.Join("; ",array)} ]");
- for (int i = 0; i < array.Length; i++) 
+ Console.WriteLine($"Массив: [ {string.Join("; ",mas)} ]");
+ for (int i = 0; i < mas.Length; i++) 
   {
-    if (array[i] % 2 == 0)
+    if (mas[i] % 2 == 0)
     {
         element++;
     }

@@ -2,14 +2,14 @@
 
 
 int size = 10;
-double[] array = new double[size]; 
-for (int i = 0; i < array.Length; i++)
+double[] mas = new double[size]; 
+for (int i = 0; i < mas.Length; i++)
  {
-array[i] = Math.Round(new Random().NextDouble() * new Random().Next(101), 2);
+mas[i] = Math.Round(new Random().NextDouble() * new Random().Next(101), 2);
  }
- Console.WriteLine($"Массив: [ {string.Join("; ",array)} ]");
-double max = array.Max();
-double min = array.Min();
+ Console.WriteLine($"Массив: [ {string.Join("; ",mas)} ]");
+double max = mas.Max();
+double min = mas.Min();
 double raznost = Math.Round(max - min, 2) ;
 Console.WriteLine($"Максимальное значение массива: {max}");
 Console.WriteLine($"Минимальное значение массива: {min}");
