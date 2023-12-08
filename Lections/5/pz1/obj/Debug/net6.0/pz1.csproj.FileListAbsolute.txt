@@ -1,0 +1,15 @@
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.csproj.AssemblyReference.cache
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.AssemblyInfoInputs.cache
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.AssemblyInfo.cs
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.csproj.CoreCompileInputs.cache
+C:\lessons\WelcomeToProgramm\dz5\pz1\bin\Debug\net6.0\pz1.exe
+C:\lessons\WelcomeToProgramm\dz5\pz1\bin\Debug\net6.0\pz1.deps.json
+C:\lessons\WelcomeToProgramm\dz5\pz1\bin\Debug\net6.0\pz1.runtimeconfig.json
+C:\lessons\WelcomeToProgramm\dz5\pz1\bin\Debug\net6.0\pz1.dll
+C:\lessons\WelcomeToProgramm\dz5\pz1\bin\Debug\net6.0\pz1.pdb
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.dll
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\refint\pz1.dll
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.pdb
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\pz1.genruntimeconfig.cache
+C:\lessons\WelcomeToProgramm\dz5\pz1\obj\Debug\net6.0\ref\pz1.dll
