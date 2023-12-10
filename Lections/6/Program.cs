@@ -2,8 +2,8 @@
 Задача 1: Создание строки из двумерного массива символов
 public class Task1
 {
-public static void Main(string[] args)
-{
+// public static void Main(string[] args)
+// {
 // Инициализация двумерного массива символов
 char[,] charArray = new char[,] { { 'a', 'b' }, { 'c', 'd' } };
 // Вызов метода для создания строки из 2D массива
