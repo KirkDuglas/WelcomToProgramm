@@ -27,7 +27,8 @@ void PrintMatrix (int[,] matr)
     }  
 }
 void GetStringWihMin (int[,] matr)
-{int minRow = 0;
+{
+    int minRow = 0;
 int minSumm = int.MaxValue;
 
    for(int i = 0; i < matr.GetLength(0); i++)

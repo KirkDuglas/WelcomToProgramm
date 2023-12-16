@@ -1,0 +1,15 @@
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.csproj.AssemblyReference.cache
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.AssemblyInfoInputs.cache
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.AssemblyInfo.cs
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.csproj.CoreCompileInputs.cache
+C:\lessons\WelcomeToProgramm\dz7\z3_1\bin\Debug\net6.0\z3_1.exe
+C:\lessons\WelcomeToProgramm\dz7\z3_1\bin\Debug\net6.0\z3_1.deps.json
+C:\lessons\WelcomeToProgramm\dz7\z3_1\bin\Debug\net6.0\z3_1.runtimeconfig.json
+C:\lessons\WelcomeToProgramm\dz7\z3_1\bin\Debug\net6.0\z3_1.dll
+C:\lessons\WelcomeToProgramm\dz7\z3_1\bin\Debug\net6.0\z3_1.pdb
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.dll
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\refint\z3_1.dll
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.pdb
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\z3_1.genruntimeconfig.cache
+C:\lessons\WelcomeToProgramm\dz7\z3_1\obj\Debug\net6.0\ref\z3_1.dll

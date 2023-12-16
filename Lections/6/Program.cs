@@ -1,9 +1,9 @@
-﻿6 - ой семинар:
-Задача 1: Создание строки из двумерного массива символов
+﻿// 6 - ой семинар:
+// Задача 1: Создание строки из двумерного массива символов
 public class Task1
 {
-// public static void Main(string[] args)
-// {
+public static void Main(string[] args)
+{
 // Инициализация двумерного массива символов
 char[,] charArray = new char[,] { { 'a', 'b' }, { 'c', 'd' } };
 // Вызов метода для создания строки из 2D массива
@@ -27,7 +27,7 @@ result += array[i, j];
 return result;
 }
 }
-Задача 2: Замена заглавных букв на строчные в строке
+// Задача 2: Замена заглавных букв на строчные в строке
 public class Task2
 {
 public static void Main(string[] args)
@@ -39,7 +39,7 @@ string result = input.ToLower();
 Console.WriteLine(result);
 }
 }
-Задача 3: Проверка строки на палиндром
+// Задача 3: Проверка строки на палиндром
 public class Task3
 {
 public static void Main(string[] args)
@@ -51,15 +51,14 @@ string input = "шалаш";
 Console.WriteLine(isPalindrome ? "Да" : "Нет");
 }
 // Метод для проверки, является ли строка палиндромомpublic static bool IsPalindrome(string str)
-{
+// {
 // Нормализация строки путем удаления не буквенно-цифровыхсимволов и приведения к нижнему регистру
-string normalized = new
-string(str.Where(char.IsLetterOrDigit).ToArray()).ToLower();
+string normalized = new string(str.Where(char.IsLetterOrDigit).ToArray()).ToLower();
 // Сравнение строки с ее перевернутым вариантом
 return normalized.SequenceEqual(normalized.Reverse());
+
 }
-}
-Задача 4 (необязательная): Обратный порядок слов в строкеpublic class Task4
+// Задача 4 (необязательная): Обратный порядок слов в строкеpublic class Task4
 {
 public static void Main(string[] args)
 {
